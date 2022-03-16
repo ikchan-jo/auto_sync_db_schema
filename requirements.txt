@@ -1,0 +1,4 @@
+loguru
+sqlalchemy
+sqlalchemy_utils
+alembic
